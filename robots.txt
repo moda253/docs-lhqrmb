@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7cyr13.juragan89.space/sitemap.xml
